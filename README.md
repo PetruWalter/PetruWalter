@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petruwalter&label=Profile%20views&color=0e75b6&style=flat" alt="petruwalter" /> </p>
 
-<p align="left"> <a href="https://twitter.com/petru_walter" target="blank"><img src="https://img.shields.io/twitter/follow/petru walter?logo=twitter&style=for-the-badge" alt="petru_walter" /></a> </p>
+
 
 - 🔭 I’m currently working on **My Portfolio**
 
