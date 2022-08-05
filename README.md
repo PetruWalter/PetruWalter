@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **JS, React**
+- 🌱 I’m currently learning **JS and after React**
 
 - 💬 Ask me about **JS , (S)CSS**
 
