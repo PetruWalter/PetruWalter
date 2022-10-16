@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **JS and Software Testing**
+- 🌱 I’m currently learning **Java & Software Testing**
 
 - 💬 Ask me about **JS , (S)CSS**
 
