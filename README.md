@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Petru Walter</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A passionate frontend developer & software tester from Germany</h3>
 <img align="right" alt="Coding" width="400" src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2014/07/code-minions.gif">
 
 
