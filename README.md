@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Java & Software Testing**
+- 🌱 I’m currently learning **Java, Python & Software Testing**
 
-- 💬 Ask me about **JS , (S)CSS**
+- 💬 Ask me about **JS, (S)CSS, CHAT-GPT**
 
 - 📫 How to reach me **petruwalter@gmx.de**
 
