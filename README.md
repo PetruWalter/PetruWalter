@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **petruwalter@gmx.de**
 
-- ⚡ Fun fact **Ich bin Schachprofi ♟️, QA Tester 🕵️, Sänger 🎤, Schlagzeugspieler 🥁, PC-Enthusiast 🖥️, Frontend Developer 💻 und stolzer Familienvater 👨‍👩‍👦. Spaßfakt: Meine Eltern sind Lehrer 📚, und ich habe ihre Leidenschaft fürs Lernen geerbt! 🧠🎶⚡⚡⚡! I'm a chess pro ♟️, QA tester 🕵️, singer 🎤, drummer 🥁, PC enthusiast 🖥️, frontend developer 💻, and a proud family man 👨‍👩‍👦. Fun fact: My parents are teachers 📚, and I've inherited their passion for learning! 🧠🎶⚡⚡⚡!**
+- ⚡ Fun fact **I'm a chess pro ♟️, QA tester 🕵️, singer 🎤, drummer 🥁, PC enthusiast 🖥️, frontend developer 💻, and a proud family man 👨‍👩‍👦. Fun fact: My parents are teachers 📚, and I've inherited their passion for learning! 🧠🎶⚡⚡⚡!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
