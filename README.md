@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **JS, (S)CSS, CHAT-GPT**
 
-- 📫 How to reach me **petruwalter@gmx.de**
+- 📫 How to reach me **petruwalter@yahoo.com**
 
 - ⚡ Fun fact **I'm a chess pro ♟️, QA tester 🕵️, singer 🎤, drummer 🥁, PC enthusiast 🖥️, frontend developer 💻, and a proud family man 👨‍👩‍👦. Fun fact: My parents are teachers 📚, and I've inherited their passion for learning! 🧠🎶⚡⚡⚡!**
 
